@@ -2,7 +2,7 @@ $STR = Read-Host "Enter STR"
 $user_name = "UPart2$STR"
 $group_name = "GPart2$STR"
 
-echo "User $user_name creating"
+echo "User $user_name creating:"
 net user $user_name /add
 
 echo "Group $group_name creating:"
