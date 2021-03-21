@@ -1,1 +1,1 @@
-ipconfig > ipcnf.txt
+ipconfig /all > ipcnf.txt
