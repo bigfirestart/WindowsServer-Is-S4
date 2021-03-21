@@ -1,0 +1,1 @@
+ipconfig > ipcnf.txt
